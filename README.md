@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Shibam 👋 </h1>
 
-<img margin-right="10" align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="330">
+<img margin-right="10" align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="280">
 
 <br />
 <br />
