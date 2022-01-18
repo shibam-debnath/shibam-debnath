@@ -17,6 +17,12 @@
 
 <br />
 
+## 📊 Github Statistics
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=shibam-debnath&show_icons=true&theme=blue-green%22%20alt=%22biju%22" alt="biki" />
+
+ <br />
+ 
 ### Languages and Tools:
 
 [<img align="left" alt="Deno" width="26px" src="https://github.com/resyfer/resyfer/raw/main/img/c.svg" />]()
@@ -28,5 +34,10 @@
 
 <br />
 <br />
+ 
+ ## 📚 My Skills
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shibam-debnath&layout=compact&show_icons=true&theme=blue-green)](https://github.com/shibam-debnath)
+<br>
 
  
