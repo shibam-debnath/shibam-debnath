@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Shibam 👋 </h1>
+<h1 align="center">Hi there, I'm <span style="color: #42f5e3">Shibam</span> 👋 </h1>
 
 <img margin-right="10" align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="280">
 
