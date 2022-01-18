@@ -9,6 +9,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: To know that do follow me
 
+<br />
 
 ### Connect with me:
 
@@ -41,6 +42,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shibam-debnath&layout=compact&show_icons=true&theme=blue-green)](https://github.com/shibam-debnath)
 <br>
 
+ <br />
  
   ## What I have done today ?
  <br />
