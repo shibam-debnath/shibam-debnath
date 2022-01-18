@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-## I'm a Student, Developer, and Self-learner!!
+<h1> I'm a Student, Developer, and Self-learner!! </h1>
 
 - 🌱 I’m currently learning anything that excites me
 - 👯 I’m looking to collaborate with other developers
