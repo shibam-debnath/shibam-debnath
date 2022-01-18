@@ -19,7 +19,7 @@
 
 ## 📊 Github Statistics
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=shibam-debnath&show_icons=true&theme=blue-green%22%20alt=%22biju%22" alt="biki" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=shibam-debnath&show_icons=true,prs&cache_seconds=86400&theme=radical" alt="biki" />
 
  <br />
  
