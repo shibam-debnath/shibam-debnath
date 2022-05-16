@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I'm <span style="color: blue">Shibam</span> 👋 </h1>
-
 <img margin-right="10" align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="280">
 
 <br />
@@ -11,14 +10,13 @@
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: To know that do follow me
-
 <br />
+## Find me around the web 🌎 
 
-### Connect with me:
 
- 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/shibam-debnath-25b235206/)
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/_b_i_k_i__/)
+- Practising on <a href="https://leetcode.com/4AM_xinhe/">LeetCode</a> 😍
+- Sharing updates on <a href="https://www.linkedin.com/in/shibam-debnath-25b235206/">LinkedIn</a> 😇
+- Sharing stories on <a href="https://www.instagram.com/_b_i_k_i__/">Instagram</a> 😁
 
 <br />
 
@@ -28,17 +26,6 @@
 
  <br />
  
-### Languages and Tools:
-
-[<img align="left" alt="Deno" width="26px" src="https://github.com/resyfer/resyfer/raw/main/img/c.svg" />]()
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]()
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />]()
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]()
-
-
-<br />
-<br />
  
  ## 📚 My Skills
 
@@ -47,7 +34,7 @@
 
  <br />
  
-  ## What I have done today ?
+  ## My progress today 😢👀
  <br />
  <br />
  
