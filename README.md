@@ -1,7 +1,6 @@
 <h1 align="center">Hi there, I'm <span style="color: blue">Shibam</span> 👋 </h1>
-<img margin-right="10" align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="280">
+<img margin-right="20" align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220">
 
-<br />
 <br />
 
 ## I'm a Student, Developer, and Self-learner!!
