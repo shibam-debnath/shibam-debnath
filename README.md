@@ -20,16 +20,7 @@
 - Sharing updates on <a href="https://www.linkedin.com/in/shibam-debnath-25b235206/">LinkedIn</a> 😇
 - Sharing stories on <a href="https://www.instagram.com/_b_i_k_i__/">Instagram</a> 😁
 </div>
-<br />
-<br />
 
-## I'm a Student, Developer, and Self-learner!!
-
-- 🌱 I’m currently learning anything that excites me
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: To know that do follow me
-<br />
 
 
 <br />
@@ -48,11 +39,19 @@
 <a href="https://github.com/shibam-debnath/github-readme-activity-graph"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shibam-debnath&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
- 
+
+
+
+
 <h2 align="center"> My progress today 😢👀 </h2>
   
  <br />
  <br />
  
  <p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
+ 
+ ### 👩‍🚀🚀 Thank You for giving the time 😄 to view my GitHub  Profile 👩‍🚀 🚀
+</div>
+ 
+ <br/>
  
