@@ -16,7 +16,7 @@
 <br />
 <br />
 <div align="center">
-- Practising on <a href="[https://leetcode.com/4AM_xinhe/](https://leetcode.com/H4saki/)">LeetCode</a> 😍
+- Practising on <a href="https://www.leetcode.com/H4saki/">LeetCode </a> 😍
 - Sharing updates on <a href="https://www.linkedin.com/in/shibam-debnath-25b235206/">LinkedIn</a> 😇
 - Sharing stories on <a href="https://www.instagram.com/_b_i_k_i__/">Instagram</a> 😁
 </div>
@@ -51,6 +51,7 @@
  <p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
  
  <br/>
+ 
  <div align="center">
  ### 👩‍🚀🚀 Thank You for giving the time 😄 to view my GitHub  Profile 👩‍🚀 🚀
 </div>
