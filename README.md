@@ -4,7 +4,7 @@
   
   <span></span>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=3FD0D4&size=36&lines=+Hey!+It's+Shibam+Debnath+...+.!;I'm+a+Software+Developer.;❤+C+plus+plus,+LeetCode,+UI/UX;I+❤+problem+solving+..+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=3FD0D4&size=36&lines=+Hey!+It's+Shibam+Debnath+....+!;I'm+a+Software+Developer...+.;❤+C+plus+plus,+LeetCode,+UI/UX;I+❤+problem+solving+..+!)](https://git.io/typing-svg)
 </div>
 <br />
 
@@ -16,7 +16,7 @@
 <br />
 <br />
 <div align="center">
-- Practising on <a href="https://leetcode.com/4AM_xinhe/">LeetCode</a> 😍
+- Practising on <a href="[https://leetcode.com/4AM_xinhe/](https://leetcode.com/H4saki/)">LeetCode</a> 😍
 - Sharing updates on <a href="https://www.linkedin.com/in/shibam-debnath-25b235206/">LinkedIn</a> 😇
 - Sharing stories on <a href="https://www.instagram.com/_b_i_k_i__/">Instagram</a> 😁
 </div>
@@ -50,6 +50,8 @@
  
  <p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
  
+ <br/>
+ <div align="center">
  ### 👩‍🚀🚀 Thank You for giving the time 😄 to view my GitHub  Profile 👩‍🚀 🚀
 </div>
  
