@@ -1,7 +1,11 @@
-<h1 align="center">Hi there, I'm <span style="color: blue">Shibam</span> 👋 </h1>
-<img margin-right="20" align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220">
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> fellow DEVELOPER'S myself Shibam</h1>
+<img align="center" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 
-<br />
+
+<p align="center">
+<img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" /> <b><i align="center">Thought : "Hard work beats talent, when talent doesn't work Hard!!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+</p>
+
 
 ## I'm a Student, Developer, and Self-learner!!
 
