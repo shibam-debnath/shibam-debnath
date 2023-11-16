@@ -16,7 +16,7 @@
 <br />
 <br />
 <div align="center">
-- Practising on <a href="https://www.leetcode.com/H4saki/">LeetCode </a> 😍
+- Practising on <a href="https://www.leetcode.com/H4saki_96/">LeetCode </a> 😍
 - Sharing updates on <a href="https://www.linkedin.com/in/shibam-debnath-25b235206/">LinkedIn</a> 😇
 - Sharing stories on <a href="https://www.instagram.com/_b_i_k_i__/">Instagram</a> 😁
 </div>
