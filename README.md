@@ -7,7 +7,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=3FD0D4&size=36&lines=+Hey!+It's+Shibam+Debnath+....+!;I'm+a+noob+Software+Enginner...+.;I+❤+learning+and+building+something+meaningful+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=3FD0D4&size=36&lines=+Hey!+It's+Shibam+Debnath+....+!;I'm+a+noob+Software+Engineer...+.;I+❤+learning+and+building+something+meaningful+!)](https://git.io/typing-svg)
 </div>
 
 <br />
