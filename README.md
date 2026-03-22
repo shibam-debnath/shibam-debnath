@@ -9,11 +9,6 @@
 <br />
 
 <br />
-<p align="center">
-<img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" /> <b><i align="center">"Hard work beats talent, when talent doesn't work Hard!!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
-</p>
-
-<br />
 <br />
 <div align="center">
 - Practising on <a href="https://www.leetcode.com/H4saki_96/">LeetCode </a> 😍
